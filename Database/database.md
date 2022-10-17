@@ -62,7 +62,7 @@
 |[Portfolio Box Pro](https://)|Student License|Portfolio creation|
 |[Lumion Pro](https://)|Student License|3D Rendering software|
 |[Tableau Desktop](https://)|1 Year Student License|Data Analysing|
-|[Tableau Prep Builder](https://)|1 Year Student License|Data Cleaner For Data Analysis|
+|[Tableau Prep Builder](https://www.tableau.com/academic/students)|1 Year Student License|Data Cleaner For Data Analysis|
 |[THINKFUL](https://)|1 Month Web Development|Learn|
 |[Invision App](https://https://www.invisionapp.com/)|Free while you are student|UI/UX Design|
 |[Basecamp account](https://)|Student License|Project management & team Collab|
